@@ -30,7 +30,7 @@ now, inject the database in project and set port number :
 ## Note:
 * if you want to run the project on your computer, you must be configure again to your database for database connection
 
-![application-properties](https://user-images.githubusercontent.com/56650527/97080249-a2ae2700-1602-11eb-8f52-4235e247221e.png)
+![application-properties](https://user-images.githubusercontent.com/56650527/97092996-39093980-1651-11eb-8712-e89f7fe9860c.png)
 
 - [x] Let's open the postman and test the http request methods :
 
