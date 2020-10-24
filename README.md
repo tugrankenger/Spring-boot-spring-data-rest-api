@@ -1,7 +1,7 @@
 # Spring-boot-spring-data-rest-api
-java spring boot-data rest api CRUD 
+java spring boot-data rest api 
 
-Create rest api and use the http request methods for CRUD to database, these functions are quite simple with spring-data-rest :white_check_mark:
+Create rest api and use the http request methods for database, these functions are quite simple with spring-data-rest :white_check_mark:
 
 -First, create database (databaseName:lost, tableName:actors) and i will add few character of lost movie i love :
 
